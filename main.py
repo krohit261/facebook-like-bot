@@ -13,7 +13,7 @@ password = os.environ.get('fbpass')
 class facebook():
 
     def __init__(self):
-        self.browser = webdriver.Firefox()
+        self.browser = webdriver.PhantomJS()
         self.browser.set_window_size(1120, 550)
         
     def login(self):
