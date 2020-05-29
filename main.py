@@ -6,8 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementNotInteractableException
 
 
-username = os.environ.get('fbuser')
-password = os.environ.get('fbpass')
+
 
 
 class facebook():
@@ -17,6 +16,9 @@ class facebook():
         self.browser.set_window_size(1120, 550)
         
     def login(self):
+        username = os.environ.get('fbuser')
+        password = os.environ.get('fbpass')
+        print(username)
         self.browser.get("https://www.facebook.com/")
         emailinp = self.browser.find_element_by_xpath('//*[@id="email"]')
         
@@ -34,7 +36,7 @@ class facebook():
         print("page opened")
 
     def likeimg(self , b):
-        for j in range(10):
+        for j in range(15):
             a=1
             while a < 2:
                 try :
