@@ -1,1 +1,87 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+import os
+from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import ElementNotInteractableException
+a=1
 
+
+class facebook():
+
+    def __init__(self):
+        self.browser = webdriver.Firefox()
+        self.browser.set_window_size(1120, 550)
+        
+    def login(self):
+        self.browser.get("https://www.facebook.com/")
+        emailinp = self.browser.find_element_by_xpath('//*[@id="email"]')
+        emailinp.send_keys('krohit261@gmailcom')
+        passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
+        passinp.send_keys('puja@2000')
+        loginbut = self.browser.find_element_by_xpath('//*[@id="u_0_b"]')
+        loginbut.click()
+        time.sleep(5)
+        print("logged in")
+
+    def pageopen(self):
+        self.browser.get('https://www.facebook.com/NavodayaKrantiPariwar')
+        time.sleep(8)
+        print("page opened")
+
+    def likeimg(self , b):
+        for j in range(10):
+            a=1
+            while a < 2:
+                try :
+                    likebut = self.browser.find_element_by_xpath('/html/body/div[1]/div/div/div[3]/div/div/div[1]/div/div[4]/div[2]/div/div[2]/div[2]/div/div/div['+str(j+1)+']/div/div/div/div/div/div/div/div/div/div[2]/div[4]/div/div/div[1]/div[2]/div/span[1]/div/div/span/div/div')
+                    
+                    
+                    styletxt = likebut.get_attribute("style")
+                    if styletxt == "color: rgb(32, 120, 244);" :
+                        a=3
+                        
+                        
+                    else :
+                        a=3
+                        likebut.click()
+                        print('picture liked')
+                        
+
+                            
+                        
+                    time.sleep(8)
+                    
+                    
+                except NoSuchElementException :
+                    self.browser.execute_script('window.scrollTo(0,'+str(250*b)+')')
+                    print('pagescrolled')
+                    time.sleep(2)
+                    a=1
+               # except ElementNotInteractableException :
+               #     self.browser.execute_script('window.scrollTo(0,'+str(250*(b-1) + 10)+')')
+               #     a=1
+               #     time.sleep(1)
+               #     print('scrolled a bit ')
+
+                b=b+1
+        time.sleep(36000)
+            
+
+    def closebrowser(self):
+        self.browser.close()
+            
+
+
+    
+
+x=facebook()
+x.login()
+x.pageopen()
+inf =1 
+
+while inf < 2 :
+
+    x.likeimg(1)
+
+x.closebrowser()

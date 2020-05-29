@@ -1,0 +1,509 @@
+1590741352924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilerc4wbf"
+1590741355877	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590741357980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590741357980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590741357981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590741357981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590741363847	Marionette	INFO	Listening on port 61685
+1590741363860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590741402853	Marionette	INFO	Stopped listening on port 61685
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590741441040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileqidtod"
+1590741441674	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590741443068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590741443068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590741443068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590741443068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590741445598	Marionette	INFO	Listening on port 61775
+1590741445952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590741470423	Marionette	INFO	Stopped listening on port 61775
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590741727219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilel288eR"
+1590741727951	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590741729294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590741729295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590741729295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590741729295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590741731960	Marionette	INFO	Listening on port 61883
+1590741732137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590741889521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilebKw34D"
+1590741890529	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590741891984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590741891984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590741891985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590741891985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590741894617	Marionette	INFO	Listening on port 61986
+1590741896147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.facebook.com/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1590742244343	Marionette	INFO	Stopped listening on port 61986
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+://pdf.js/
+1590742240102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590742243773	Marionette	INFO	Listening on port 62121
+1590742243830	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590742314068	Marionette	INFO	Stopped listening on port 62121
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590742329095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofile5PZ6Ou"
+1590742329763	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590742331199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590742331200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590742331200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590742331200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590742333877	Marionette	INFO	Listening on port 62218
+1590742334016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590742389997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilexoPWph"
+1590742390962	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590742393094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590742393095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590742393095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590742393095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590742395957	Marionette	INFO	Listening on port 62300
+1590742396026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1590742965678	Marionette	INFO	Stopped listening JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+[Child 4756, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 4756, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590742967003	Marionette	INFO	Stopped listening on port 62430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590742973031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileNpeutB"
+1590742973702	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590742975190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590742975190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590742975190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590742975190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590742978193	Marionette	INFO	Listening on port 62532
+1590742978437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590743078940	Marionette	INFO	Stopped listening on port 62532
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590743187841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileW58vfS"
+1590743188507	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590743189929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590743189929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590743189929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590743189929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590743192862	Marionette	INFO	Listening on port 62615
+1590743193248	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+1590743279611	Marionette	INFO	Stopped listening on port 62615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590743283507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileP8wWYq"
+1590743284142	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590743285337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590743285337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590743285338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590743285338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590743288193	Marionette	INFO	Listening on port 51099
+1590743288412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590743380029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilelMqyN4"
+1590743381049	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590743382333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590743382334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590743382334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590743382334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590743385041	Marionette	INFO	Listening on port 64862
+1590743385449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+1590743603994	Marionette	INFO	Stopped listening on port 64862
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+1590743381071	Marionette	INFO	Stopped listening on port 51099
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590743608778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileH0M9wl"
+1590743609393	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590743610777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590743610777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590743610778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590743610778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590743613736	Marionette	INFO	Listening on port 50535
+1590743614193	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1590743805091	Marionette	INFO	Stopped listening on port 50535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590743824754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilel904iY"
+1590743825406	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590743826861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590743826862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590743826862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590743826862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590743829658	Marionette	INFO	Listening on port 64995
+1590743829695	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+1590743888157	Marionette	INFO	Stopped listening on port 64995
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590744068461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilec4pIuF"
+1590744069096	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590744070456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590744070457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590744070457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590744070457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590744072976	Marionette	INFO	Listening on port 65083
+1590744073381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590744227963	Marionette	INFO	Stopped listening on port 65083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5E0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1590744231875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilegtIcHF"
+1590744232500	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590744233828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590744233828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590744233829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590744233829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590744236507	Marionette	INFO	Listening on port 65177
+1590744236784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when1590744398326	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590744399708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590744399708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590744399708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590744399708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590744403833	Marionette	INFO	Listening on port 65267
+1590744403982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1590744672582	Marionette	INFO	Stopped listening on port 65267
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3492, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+hKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+1590744398801	Marionette	INFO	Stopped listening on port 65177
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590744672121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileAQV6Rk"
+1590744672915	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590744674347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590744674347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590744674347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590744674347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590744677003	Marionette	INFO	Listening on port 65370
+1590744677033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590744785274	Marionette	INFO	Stopped listening on port 65370
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590746939628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileuE8QqU"
+1590746941289	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590746942985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590746942985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590746942985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590746942985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590746947688	Marionette	INFO	Listening on port 49280
+1590746947953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590747047899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileEXeino"
+1590747049906	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590747051407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590747051407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590747051408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590747051408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590747054036	Marionette	INFO	Listening on port 49392
+1590747055289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590747182966	Marionette	INFO	Stopped listening on port 49392
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590747336420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilei0jwil"
+1590747338157	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590747339838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590747339839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590747339839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590747339839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590747342996	Marionette	INFO	Listening on port 49542
+1590747343062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590747480521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileMw9B42"
+1590747481281	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590747483134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590747483134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590747483134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590747483134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590747488232	Marionette	INFO	Listening on port 49640
+1590747488266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590747571125	Marionette	INFO	Stopped listening on port 49640
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i5gO4/yT/l/en_GB/eNgY5pnUTHesRFEkiJLnQkkKhKJkKPayCZy_ZRYZgDobsQmoBzKmO8N1vr419reRvyOoKWLFNsjPm.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590749403397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileMlp6wx"
+1590749404301	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590749406140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590749406140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590749406140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590749406140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590749409506	Marionette	INFO	Listening on port 49759
+1590749409972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590749523309	Marionette	INFO	Stopped listening on port 49759
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ieR24/yg/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDsFIAEEBM2vWAaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCB.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ieR24/yg/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDsFIAEEBM2vWAaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCB.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ieR24/yg/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDsFIAEEBM2vWAaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCB.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ieR24/yg/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDsFIAEEBM2vWAaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCB.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ieR24/yg/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDsFIAEEBM2vWAaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCB.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ieR24/yg/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDsFIAEEBM2vWAaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCB.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ieR24/yg/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDsFIAEEBM2vWAaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCB.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ieR24/yg/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDsFIAEEBM2vWAaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCB.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
