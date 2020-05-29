@@ -4,7 +4,10 @@ import time
 import os
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementNotInteractableException
-a=1
+
+
+username = os.environ.get('fbuser')
+password = os.environ.get('fbpass')
 
 
 class facebook():
@@ -16,9 +19,10 @@ class facebook():
     def login(self):
         self.browser.get("https://www.facebook.com/")
         emailinp = self.browser.find_element_by_xpath('//*[@id="email"]')
-        emailinp.send_keys('krohit261@gmailcom')
+        
         passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
-        passinp.send_keys('puja@2000')
+        emailinp.send_keys(username)
+        passinp.send_keys(password)
         loginbut = self.browser.find_element_by_xpath('//*[@id="u_0_b"]')
         loginbut.click()
         time.sleep(5)
