@@ -690,3 +690,76 @@ JavaScript error: , line 0: TypeError: Error in body stream
 JavaScript error: , line 0: TypeError: Error in body stream
 JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iVEj4/yq/l/en_GB/jNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ0AW58pGFMy-5wtt1oVaplWGLRDLbHOxMzB2l0IJXcTuCZh1qrUA9DdCVjOGiKtnOZynUz9koglAuak5YfJah5qvJhdBpmlyurDvQC768HA5uqMqpSXvMNyHIonPOgEV5Jvb4NpQuYRiksM9buErNxRFahaKhyNXLiugb0FGEEsvakKVTEhgFuYWjQn3zBZYwI6Ht_7WBSNJAvGB1K6N3BTUTxKzBnR3t_Hibc4m_kQugU58ZAtrm3mCC3qDx-OpKGY_VEYGJKIW66XFqqvdwioucKJylh-TSXOMsmVzax.js?_nc_x=QLfNDFSVct1, line 497: cancelled: operation is cancelled
 JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iVEj4/yq/l/en_GB/jNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ0AW58pGFMy-5wtt1oVaplWGLRDLbHOxMzB2l0IJXcTuCZh1qrUA9DdCVjOGiKtnOZynUz9koglAuak5YfJah5qvJhdBpmlyurDvQC768HA5uqMqpSXvMNyHIonPOgEV5Jvb4NpQuYRiksM9buErNxRFahaKhyNXLiugb0FGEEsvakKVTEhgFuYWjQn3zBZYwI6Ht_7WBSNJAvGB1K6N3BTUTxKzBnR3t_Hibc4m_kQugU58ZAtrm3mCC3qDx-OpKGY_VEYGJKIW66XFqqvdwioucKJylh-TSXOMsmVzax.js?_nc_x=QLfNDFSVct1, line 495: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieR24/yr/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDWJfGb9q3l02AaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieR24/yr/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDWJfGb9q3l02AaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieR24/yr/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDWJfGb9q3l02AaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieR24/yr/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDWJfGb9q3l02AaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieR24/yr/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDWJfGb9q3l02AaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieR24/yr/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDWJfGb9q3l02AaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieR24/yr/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDWJfGb9q3l02AaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieR24/yr/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDWJfGb9q3l02AaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieR24/yr/l/en_GB/eNgY5pnUTHesRFEkiJLnQk0cnL8-8RIKDWJfGb9q3l02AaxRcdiO4lnLvUFwfkgTxzOoKWLFNsjPmjNnE0XliciGfjAmRwUGDCBM_SNzZKAKzJ.js?_nc_x=QLfNDFSVct1, line 134: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1590758939751	Marionette	INFO	Stopped listening on port 53574
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590801180296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofilelW68si"
+1590801182498	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590801184369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590801184369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590801184370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590801184370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590801189546	Marionette	INFO	Listening on port 57667
+1590801189876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDUY4/y1/l/en_GB/8qUeDxTjQIQ0sWosID0_g2LvUFwfkgTxzOoKWLFNsjPmJw1s0FwmY5zBqmCOxwevVSM_SNzZKAKzJOJfPYaRZ-obGLRDLbHOxMzYdUD69yfwPKB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJQC768HA5uqMqpSXvMNyHIo-dSlMv0oOw4nPOgEV5Jvb4NpQuYRiksM9_mLmgKYkgEXwzo1_474LF_buErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caebil0rxo0EmJKN-L-u-Kf8KWBSNJAvGB1K4CYFidBbVBMKcxX7yUQeez.js?_nc_x=QLfNDFSVct1, line 39: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDUY4/y1/l/en_GB/8qUeDxTjQIQ0sWosID0_g2LvUFwfkgTxzOoKWLFNsjPmJw1s0FwmY5zBqmCOxwevVSM_SNzZKAKzJOJfPYaRZ-obGLRDLbHOxMzYdUD69yfwPKB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJQC768HA5uqMqpSXvMNyHIo-dSlMv0oOw4nPOgEV5Jvb4NpQuYRiksM9_mLmgKYkgEXwzo1_474LF_buErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caebil0rxo0EmJKN-L-u-Kf8KWBSNJAvGB1K4CYFidBbVBMKcxX7yUQeez.js?_nc_x=QLfNDFSVct1, line 39: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDUY4/y1/l/en_GB/8qUeDxTjQIQ0sWosID0_g2LvUFwfkgTxzOoKWLFNsjPmJw1s0FwmY5zBqmCOxwevVSM_SNzZKAKzJOJfPYaRZ-obGLRDLbHOxMzYdUD69yfwPKB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJQC768HA5uqMqpSXvMNyHIo-dSlMv0oOw4nPOgEV5Jvb4NpQuYRiksM9_mLmgKYkgEXwzo1_474LF_buErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caebil0rxo0EmJKN-L-u-Kf8KWBSNJAvGB1K4CYFidBbVBMKcxX7yUQeez.js?_nc_x=QLfNDFSVct1, line 39: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDUY4/y1/l/en_GB/8qUeDxTjQIQ0sWosID0_g2LvUFwfkgTxzOoKWLFNsjPmJw1s0FwmY5zBqmCOxwevVSM_SNzZKAKzJOJfPYaRZ-obGLRDLbHOxMzYdUD69yfwPKB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJQC768HA5uqMqpSXvMNyHIo-dSlMv0oOw4nPOgEV5Jvb4NpQuYRiksM9_mLmgKYkgEXwzo1_474LF_buErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caebil0rxo0EmJKN-L-u-Kf8KWBSNJAvGB1K4CYFidBbVBMKcxX7yUQeez.js?_nc_x=QLfNDFSVct1, line 39: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDUY4/y1/l/en_GB/8qUeDxTjQIQ0sWosID0_g2LvUFwfkgTxzOoKWLFNsjPmJw1s0FwmY5zBqmCOxwevVSM_SNzZKAKzJOJfPYaRZ-obGLRDLbHOxMzYdUD69yfwPKB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJQC768HA5uqMqpSXvMNyHIo-dSlMv0oOw4nPOgEV5Jvb4NpQuYRiksM9_mLmgKYkgEXwzo1_474LF_buErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caebil0rxo0EmJKN-L-u-Kf8KWBSNJAvGB1K4CYFidBbVBMKcxX7yUQeez.js?_nc_x=QLfNDFSVct1, line 39: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDUY4/y1/l/en_GB/8qUeDxTjQIQ0sWosID0_g2LvUFwfkgTxzOoKWLFNsjPmJw1s0FwmY5zBqmCOxwevVSM_SNzZKAKzJOJfPYaRZ-obGLRDLbHOxMzYdUD69yfwPKB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJQC768HA5uqMqpSXvMNyHIo-dSlMv0oOw4nPOgEV5Jvb4NpQuYRiksM9_mLmgKYkgEXwzo1_474LF_buErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caebil0rxo0EmJKN-L-u-Kf8KWBSNJAvGB1K4CYFidBbVBMKcxX7yUQeez.js?_nc_x=QLfNDFSVct1, line 39: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDUY4/y1/l/en_GB/8qUeDxTjQIQ0sWosID0_g2LvUFwfkgTxzOoKWLFNsjPmJw1s0FwmY5zBqmCOxwevVSM_SNzZKAKzJOJfPYaRZ-obGLRDLbHOxMzYdUD69yfwPKB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJQC768HA5uqMqpSXvMNyHIo-dSlMv0oOw4nPOgEV5Jvb4NpQuYRiksM9_mLmgKYkgEXwzo1_474LF_buErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caebil0rxo0EmJKN-L-u-Kf8KWBSNJAvGB1K4CYFidBbVBMKcxX7yUQeez.js?_nc_x=QLfNDFSVct1, line 39: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDUY4/y1/l/en_GB/8qUeDxTjQIQ0sWosID0_g2LvUFwfkgTxzOoKWLFNsjPmJw1s0FwmY5zBqmCOxwevVSM_SNzZKAKzJOJfPYaRZ-obGLRDLbHOxMzYdUD69yfwPKB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJQC768HA5uqMqpSXvMNyHIo-dSlMv0oOw4nPOgEV5Jvb4NpQuYRiksM9_mLmgKYkgEXwzo1_474LF_buErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caebil0rxo0EmJKN-L-u-Kf8KWBSNJAvGB1K4CYFidBbVBMKcxX7yUQeez.js?_nc_x=QLfNDFSVct1, line 39: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDUY4/y1/l/en_GB/8qUeDxTjQIQ0sWosID0_g2LvUFwfkgTxzOoKWLFNsjPmJw1s0FwmY5zBqmCOxwevVSM_SNzZKAKzJOJfPYaRZ-obGLRDLbHOxMzYdUD69yfwPKB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJQC768HA5uqMqpSXvMNyHIo-dSlMv0oOw4nPOgEV5Jvb4NpQuYRiksM9_mLmgKYkgEXwzo1_474LF_buErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caebil0rxo0EmJKN-L-u-Kf8KWBSNJAvGB1K4CYFidBbVBMKcxX7yUQeez.js?_nc_x=QLfNDFSVct1, line 39: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1590801356122	Marionette	INFO	Stopped listening on port 57667
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
