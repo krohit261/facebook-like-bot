@@ -917,3 +917,26 @@ JavaScript error: , line 0: UnknownError: The operation failed for reasons unrel
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1591221775961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofileut2uWP"
+1591221778090	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591221779601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591221779601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591221779602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591221779602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591221784454	Marionette	INFO	Listening on port 52612
+1591221784777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1591222230787	Marionette	INFO	Stopped listening on port 52612
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
