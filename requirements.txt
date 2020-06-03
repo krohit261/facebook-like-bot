@@ -1,2 +1,2 @@
 selenium
-python 3.6.10
+python-3.6.10
