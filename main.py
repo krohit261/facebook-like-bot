@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-
+import os
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementNotInteractableException
 
@@ -16,8 +16,8 @@ class facebook():
         self.browser.set_window_size(1120, 550)
         
     def login(self):
-        username = "krohit261@gmail.com"
-        password = "puja@2000"
+        username = os.environ.get('fbuser')
+        password = os.environ.get('fbpass')
         print(username)
         self.browser.get("https://www.facebook.com/")
         emailinp = self.browser.find_element_by_xpath('//*[@id="email"]')
