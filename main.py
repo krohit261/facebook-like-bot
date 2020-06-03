@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-import os
+
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementNotInteractableException
 
@@ -16,8 +16,8 @@ class facebook():
         self.browser.set_window_size(1120, 550)
         
     def login(self):
-        username = os.environ.get('fbuser')
-        password = os.environ.get('fbpass')
+        username = "krohit261@gmail.com"
+        password = "puja@2000"
         print(username)
         self.browser.get("https://www.facebook.com/")
         emailinp = self.browser.find_element_by_xpath('//*[@id="email"]')
@@ -40,8 +40,9 @@ class facebook():
             a=1
             while a < 2:
                 try :
-                    likebut = self.browser.find_element_by_xpath('/html/body/div[1]/div/div/div[3]/div/div/div[1]/div/div[4]/div[2]/div/div[2]/div[2]/div/div/div['+str(j+1)+']/div/div/div/div/div/div/div/div/div/div[2]/div[4]/div/div/div[1]/div[2]/div/span[1]/div/div/span/div/div')
-                    
+                    print("iamhere")
+                    likebut = self.browser.find_element_by_xpath('/html/body/div[1]/div/div/div[3]/div/div/div[1]/div/div[4]/div[2]/div/div[2]/div[2]/div/div/div['+str(j+1)+']/div/div/div/div/div/div/div/div/div/div/div[2]/div[4]/div/div/div[1]/div[2]/div/span[1]/div/div/span/div[1]/div')
+                    print("ias")
                     
                     styletxt = likebut.get_attribute("style")
                     if styletxt == "color: rgb(32, 120, 244);" :
