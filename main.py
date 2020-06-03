@@ -20,7 +20,7 @@ class facebook():
         password = os.environ.get('fbpass')
         print(username)
         self.browser.get("https://www.facebook.com/")
-        time.sleep(8)
+        time.sleep(15)
         emailinp = self.browser.find_element_by_xpath('//*[@id="email"]')
         
         passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
