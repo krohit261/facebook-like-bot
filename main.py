@@ -24,6 +24,7 @@ class facebook():
         emailinp = self.browser.find_element_by_xpath('//*[@id="email"]')
         
         passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
+        print("iam here")
         emailinp.send_keys(username)
         passinp.send_keys(password)
         loginbut = self.browser.find_element_by_xpath('//*[@id="u_0_b"]')
