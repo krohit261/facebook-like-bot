@@ -21,7 +21,7 @@ class facebook():
         print(username)
         self.browser.get("https://www.facebook.com/")
         time.sleep(15)
-        emailinp = self.browser.find_element_by_c('//input[@id="email"]')
+        emailinp = self.browser.find_element_by_xpath('//input[@id="email"]')
         
         passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
         print("iam here")
