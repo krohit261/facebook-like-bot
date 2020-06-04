@@ -87,7 +87,9 @@ class facebook():
                #     print('scrolled a bit ')
 
                 b=b+1
+        print("time to sleep")
         time.sleep(36000)
+        print("i am upss")
             
 
     def closebrowser(self):
