@@ -27,7 +27,7 @@ class facebook():
         print(username)
         self.browser.get('https://www.facebook.com/')
         time.sleep(10)
-        self.browser.save_screenshot("screen.png")
+        self.browser.save_screenshot("https://github.com/krohit261/facebook-like-bot/tree/master/screen.png")
         passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
         emailinp = self.browser.find_element_by_xpath('//input[@id="email"]')
         
