@@ -12,7 +12,7 @@ from selenium.common.exceptions import ElementNotInteractableException
 class facebook():
 
     def __init__(self):
-        self.browser = webdriver.Firefox()
+        self.browser = webdriver.PhantomJS()
         self.browser.set_window_size(1120, 1120)
         
     def login(self):
