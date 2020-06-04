@@ -16,6 +16,11 @@ class facebook():
         self.browser.set_window_size(1120, 1120)
         
     def login(self):
+        self.browser.get('https://www.instagram.com/')
+        time.sleep(5)
+        
+        emailinput = self.browser.find_element_by_xpath('/html/body/div[1]/section/main/article/div[2]/div[1]/div/form/div[2]/div/label/input')
+        passwinput = self.browser.find_element_by_xpath('/html/body/div[1]/section/main/article/div[2]/div[1]/div/form/div[3]/div/label/input')
         username = os.environ.get('fbuser')
         password = os.environ.get('fbpass')
         print(username)
