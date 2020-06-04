@@ -19,7 +19,7 @@ class facebook():
         username = os.environ.get('fbuser')
         password = os.environ.get('fbpass')
         print(username)
-        self.browser.get("https://www.facebook.com/")
+        self.browser.get('https://www.facebook.com/')
         time.sleep(15)
         samplebut = self.browser.find_element_by_xpath('/html/body/div[1]/div[2]/div/div/div/div/div[2]/form/table/tbody/tr[3]/td[2]/div/a')
         passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
