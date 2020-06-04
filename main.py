@@ -21,9 +21,10 @@ class facebook():
         print(username)
         self.browser.get("https://www.facebook.com/")
         time.sleep(15)
+        passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
         emailinp = self.browser.find_element_by_xpath('//input[@id="email"]')
         
-        passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
+        
         print("iam here")
         emailinp.send_keys(username)
         passinp.send_keys(password)
