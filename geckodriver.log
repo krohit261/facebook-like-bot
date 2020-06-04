@@ -940,3 +940,88 @@ JavaScript error: , line 0: AbortError: A request was aborted, for example throu
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1591235423313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROHITK~1\\AppData\\Local\\Temp\\rust_mozprofile8n27Ub"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591235428168	Marionette	INFO	Listening on port 54499
+1591235428228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    timedFetch/<@resource://services-common/kinto-http-client.js:549:22
+timedFetch@resource://services-common/kinto-http-client.js:527:20
+request@resource://services-common/kinto-http-client.js:613:41
+exec1591235826236	Marionette	INFO	Listening on port 54642
+1591235826316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1591235952515	Marionette	INFO	Stopped listening on port 54642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJvq4/yq/l/en_GB/ClLMnF16qwhPr-Jru0HtExTDz5gykMCKTVMjE4VKQ4orQrJCL__KHmVOoKWLFNsjPmH5YPmAOhHm1.js?_nc_x=QLfNDFSVct1, line 168: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1591235828155	Marionette	INFO	Stopped listening on port 54499
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

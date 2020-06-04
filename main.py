@@ -12,7 +12,7 @@ from selenium.common.exceptions import ElementNotInteractableException
 class facebook():
 
     def __init__(self):
-        self.browser = webdriver.PhantomJS()
+        self.browser = webdriver.Firefox()
         self.browser.set_window_size(1120, 1120)
         
     def login(self):
@@ -27,6 +27,7 @@ class facebook():
         print(username)
         self.browser.get('https://www.facebook.com/')
         time.sleep(15)
+        self.browser.save_screenshot("screen.png")
         samplebut = self.browser.find_element_by_xpath('/html/body/div[1]/div[2]/div/div/div/div/div[2]/form/table/tbody/tr[3]/td[2]/div/a')
         passinp =self.browser.find_element_by_xpath('//*[@id="pass"]')
         emailinp = self.browser.find_element_by_xpath('//input[@id="email"]')
